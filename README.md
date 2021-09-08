@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **electronic prototyping with Raspberry Pi**
 
-- 📫 Get to know about my experiences and reach me **linkedin.com/in/fernandesivan**
+- 📫 Get to know about my experiences and reach me on **linkedin.com/in/fernandesivan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
