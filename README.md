@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Fernandes</h1>
+<h1 align="center">Hi, I'm Ivan Fernandes</h1>
 <h3 align="center">A data enthusiast and passionate about experimenting and developing solutions for real-life issues</h3>
 
 - 🔭 I’m currently working on **time series analysis**
